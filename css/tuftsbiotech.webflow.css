@@ -1,0 +1,1898 @@
+.nav-bar-container {
+  background-color: #fff;
+}
+
+.nav-bar-home.w--current {
+  color: #0082f3;
+}
+
+.nav-bar-about-us.w--current {
+  color: #0082f3;
+}
+
+.nav-bar-events {
+  color: #000;
+}
+
+.nav-bar-events.w--current {
+  color: #0082f3;
+}
+
+.tbbc-tagline {
+  margin-left: 422px;
+  padding-top: 0px;
+  -webkit-transform: translate(0px, -60px);
+  -ms-transform: translate(0px, -60px);
+  transform: translate(0px, -60px);
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+}
+
+.seminar-column {
+  padding-bottom: 54px;
+  background-color: #58002c;
+  text-align: center;
+}
+
+.seminar-text {
+  color: #dcdcdc;
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.resource-library-column {
+  padding-bottom: 54px;
+  background-color: #0b3059;
+  text-align: center;
+}
+
+.resource-library-text {
+  color: #dcdcdc;
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.opportunities-column {
+  padding-bottom: 54px;
+  background-color: #a6242f;
+  text-align: center;
+}
+
+.opportunities-text {
+  color: #dcdcdc;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.seminar-link-block {
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+.resource-library-link-block {
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+.opportunities-link-block {
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+.about-us-image {
+  padding-top: 74px;
+  padding-left: 16px;
+}
+
+.current-executives-text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #00426b;
+  color: #fff;
+  text-align: center;
+}
+
+.president-linkedin {
+  color: #8d8686;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.president-div-block {
+  text-align: justify;
+}
+
+.president-text {
+  text-align: justify;
+}
+
+.executives-row-1 {
+  padding-bottom: 10px;
+}
+
+.executives-row-2 {
+  padding-bottom: 10px;
+}
+
+.executives-row-3 {
+  padding-bottom: 10px;
+}
+
+.executives-row-4 {
+  padding-bottom: 10px;
+}
+
+.tbbc-logo {
+  padding-top: 10px;
+}
+
+.past-leaders-heading {
+  text-align: right;
+}
+
+.expertise-speaking-topic-header {
+  text-align: left;
+}
+
+.past-leaders {
+  text-align: right;
+}
+
+.past-leaders-last-row {
+  padding-bottom: 50px;
+}
+
+.consulting-images-column {
+  padding-top: 38px;
+  text-align: center;
+}
+
+.tunecc-save-the-date {
+  color: #dcdcdc;
+}
+
+.tunecc-event-page-link {
+  color: #dcdcdc;
+}
+
+.tunecc-application {
+  color: #dcdcdc;
+}
+
+.tunecc-check-image {
+  padding-top: 42px;
+}
+
+.sponsors-heading {
+  padding-top: 30px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.clarion-healthcare-logo {
+  padding-bottom: 0px;
+  -webkit-transform: translate(0px, -19px);
+  -ms-transform: translate(0px, -19px);
+  transform: translate(0px, -19px);
+}
+
+.techatlas-group-logo {
+  padding-top: 16px;
+}
+
+.header {
+  font-size: 24px;
+  letter-spacing: 0px;
+}
+
+.body {
+  font-size: 15px;
+  text-align: justify;
+}
+
+.about-us-sponsor-page {
+  font-size: 22px;
+}
+
+.text---sponsor-page {
+  font-size: 16px;
+}
+
+.contact-us-text {
+  position: relative;
+  display: inline-block;
+  margin-top: 139px;
+  float: none;
+  clear: none;
+  direction: ltr;
+  text-align: center;
+  -webkit-column-count: 1;
+  column-count: 1;
+}
+
+.home-page-footer-contact {
+  margin-bottom: 15px;
+  padding-top: 20px;
+  color: #333;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.footer {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #e0e0e0;
+}
+
+.find-us-on-social {
+  padding-top: 59px;
+}
+
+.address {
+  display: block;
+  margin-bottom: 15px;
+  padding-top: 20px;
+  font-size: 15px;
+}
+
+.facebook {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-right: 0px;
+}
+
+.linkedin {
+  margin-right: 10px;
+}
+
+.twitter {
+  margin-right: 10px;
+}
+
+.rightcolumn {
+  margin-top: 36px;
+}
+
+.footer-left {
+  padding-left: 10px;
+}
+
+.facebook-link {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 0px;
+}
+
+.linkedin-link {
+  margin-right: 10px;
+}
+
+.twitter-link {
+  margin-right: 10px;
+}
+
+.map {
+  padding: 15px 30px;
+}
+
+.consulting-right-column {
+  padding-right: 30px;
+}
+
+.consulting-image {
+  margin-top: -15px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.events-column-1 {
+  border: 1px solid #fff;
+  background-color: #6b083a;
+}
+
+.events-column-2 {
+  padding-left: 20px;
+  border: 1px solid #fff;
+  background-color: #00426b;
+}
+
+.events-column-3 {
+  border: 1px solid #fff;
+  background-color: #b53940;
+}
+
+.events-column-1-text {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.events-upcoming-image {
+  padding-top: 0px;
+}
+
+.events-columns-text {
+  margin-bottom: 0px;
+  padding: 1px 0px 0px 3px;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: left;
+}
+
+.events-upcoming-eventbrite {
+  padding-top: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.events-columns-subtext {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.events-learn-more-button {
+  float: right;
+  clear: none;
+  background-color: #00426b;
+  text-align: center;
+}
+
+.events-column-1-body {
+  border-left-color: #6b083a;
+}
+
+.events-past-events {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.footer-icons {
+  padding-top: 40px;
+  padding-left: 110px;
+}
+
+.footer-icons.home-page-footer-contact {
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: right;
+}
+
+.events-past-events-text {
+  padding-left: 8px;
+  font-size: 12px;
+  text-align: justify;
+}
+
+.events-past-events-row {
+  margin-bottom: 10px;
+}
+
+.events-column-1-line {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+.line {
+  border-bottom: 5px solid #cfc8c8;
+}
+
+.consulting-csg-image {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin-left: 0px;
+  padding-top: 40px;
+  padding-left: 0px;
+  float: right;
+  text-align: center;
+}
+
+.about-us {
+  font-size: 30px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.subheading {
+  background-color: #6b083a;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.subheading-2 {
+  padding-left: 0px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.subheading-3 {
+  background-color: #00426b;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.subheading-4 {
+  background-color: #b53940;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.button {
+  position: static;
+  left: 148px;
+  top: 7px;
+  z-index: 1;
+  display: block;
+  overflow: scroll;
+  margin-left: 0px;
+  padding-left: 15px;
+  float: none;
+  clear: none;
+  text-align: center;
+}
+
+.subheading-5 {
+  font-size: 30px;
+}
+
+.red-cell {
+  background-color: #6b083a;
+  box-shadow: inset 0 0 9px 6px #fff;
+  text-align: center;
+}
+
+.red-cell-text {
+  color: #fff;
+  font-size: 75px;
+  text-align: center;
+}
+
+.red-cell-subtext {
+  color: #fff;
+  text-align: center;
+}
+
+.blue-cell {
+  background-color: #00426b;
+  box-shadow: inset 0 0 9px 6px #fff;
+  text-align: center;
+}
+
+.orange-cell {
+  background-color: #b53940;
+  box-shadow: inset 0 0 9px 6px #fff;
+  text-align: center;
+}
+
+.grey-cell {
+  padding-top: 7px;
+  padding-bottom: 0px;
+  border: 6px solid #fff;
+  background-color: transparent;
+  text-align: center;
+}
+
+.header-1 {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px 1px 3px #000;
+}
+
+.text-block-grey {
+  margin-bottom: 25px;
+}
+
+.getting-started-link.w--current {
+  color: #000;
+}
+
+.case-study-group-link {
+  color: #000;
+}
+
+.tufts-advisory-partners-link {
+  color: #000;
+}
+
+.tunecc-link {
+  color: #000;
+}
+
+.tap-inquiry-form {
+  padding-right: 150px;
+  padding-left: 150px;
+  text-align: left;
+}
+
+.tap-inquiry-submit-buttom {
+  margin-top: 20px;
+  -webkit-transform: translate(275px, 0px);
+  -ms-transform: translate(275px, 0px);
+  transform: translate(275px, 0px);
+  text-align: center;
+}
+
+.career-seminar-row-1 {
+  margin-bottom: 1px;
+}
+
+.events-section-1 {
+  padding-top: 11px;
+}
+
+.career-seminars-link {
+  width: 269px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.case-study-group-recurring-events {
+  width: 275px;
+  padding-top: 0px;
+  padding-right: 60px;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.case-study-group-recurirng-events-2 {
+  color: #fff;
+  font-size: 16px;
+}
+
+.biotech-journal-club-recurring-events {
+  width: 207px;
+  color: #fff;
+  font-size: 22px;
+}
+
+.biotech-journal-club-recurring-events-2 {
+  color: #fff;
+  font-size: 16px;
+}
+
+.biotech-journal-club-div-block {
+  padding-left: 7px;
+}
+
+.bioetch-buzz-recurring-events {
+  color: #fff;
+  font-size: 25px;
+}
+
+.biotech-buzz-recurring-events-2 {
+  color: #fff;
+  font-size: 16px;
+}
+
+.biotech-buzz-div-block {
+  padding-top: 3px;
+  padding-left: 21px;
+}
+
+.tufts-100k-signature-events {
+  width: 234px;
+  color: #000;
+  font-size: 24px;
+}
+
+.tufts-100k-signature-events-2 {
+  color: #000;
+  font-size: 16px;
+}
+
+.tufts-100k-div-block {
+  padding-top: 14px;
+}
+
+.tunecc-signature-events {
+  color: #000;
+  font-size: 25px;
+}
+
+.tunecc-signature-events-2 {
+  color: #000;
+  font-size: 16px;
+}
+
+.tunecc-div-block {
+  padding-left: 6px;
+}
+
+.medstart-signature-event {
+  color: #000;
+  font-size: 24px;
+}
+
+.medstart-signature-event-2 {
+  color: #000;
+  font-size: 16px;
+}
+
+.upcoming-seminars-column-1a {
+  padding-right: 10px;
+  padding-bottom: 176px;
+  background-color: #9a6580;
+}
+
+.recurring-events-column {
+  padding-top: 7px;
+  padding-bottom: 9px;
+  background-color: #6c829b;
+}
+
+.signature-events-column {
+  background-color: #c97b81;
+}
+
+.biotech-buzz-column {
+  padding-top: 0px;
+}
+
+.biotech-journal-club-row-2 {
+  padding-top: 10px;
+}
+
+.biotech-buzz-column-3 {
+  padding-top: 10px;
+}
+
+.tunecc-row-2 {
+  padding-top: 10px;
+}
+
+.medstart-row-3 {
+  padding-top: 10px;
+}
+
+.resources-coming-soon-heading {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 22px;
+  text-align: left;
+}
+
+.consulthing-main-page-link {
+  padding-top: 0px;
+  color: #000;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.return-to-consulting-main-page {
+  padding-top: 23px;
+  color: #000;
+  text-align: center;
+}
+
+.steadmed-image {
+  padding-bottom: 6px;
+  text-align: center;
+}
+
+.writing-for-steadmed {
+  padding-top: 14px;
+  font-size: 16px;
+}
+
+.tap-reviews {
+  background-color: rgba(67, 69, 70, 0.69);
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.principal {
+  width: 270px;
+  padding-left: 0px;
+  float: none;
+  font-size: 19px;
+  font-weight: 400;
+  text-align: right;
+}
+
+.alexandra-linkedin-tap {
+  color: #8d8686;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  text-decoration: none;
+}
+
+.tap-lined-in-column {
+  text-decoration: none;
+}
+
+.tap-link-block1 {
+  text-decoration: none;
+}
+
+.tap-principal {
+  padding-left: 0px;
+  font-size: 23px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.tap-alex {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.principal-tap {
+  margin-top: 0px;
+  padding-top: 0px;
+  text-align: left;
+}
+
+.about-us-row {
+  background-color: #bbb8b6;
+}
+
+.miscroscope-image {
+  padding-top: 76px;
+}
+
+.about-us-column-1 {
+  text-align: center;
+}
+
+.sponsor-an-event-link-block {
+  background-color: transparent;
+  box-shadow: 0 1px 0 0 #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.corporate-sponsorship-link-block {
+  padding-top: 10px;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.individual-donation-link-block {
+  padding-top: 10px;
+  text-decoration: none;
+}
+
+.request-for-information-header {
+  padding-top: 39px;
+  padding-bottom: 39px;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.submit-button {
+  margin-left: 175px;
+}
+
+.online-donation-header {
+  font-size: 30px;
+  text-align: center;
+}
+
+.checks-donation-header {
+  font-size: 30px;
+  text-align: center;
+}
+
+.online-donation-paragraph-1 {
+  text-align: center;
+}
+
+.online-donation-link {
+  text-align: center;
+}
+
+.online-donation-div-block {
+  text-align: center;
+}
+
+.online-donation-paragraph-2 {
+  padding-top: 16px;
+}
+
+.checks-donation-paragraph {
+  text-align: center;
+}
+
+.return-to-consulting-main-page-link {
+  padding-top: 54px;
+  padding-bottom: 41px;
+  text-align: center;
+}
+
+.tunecc-event-page {
+  background-color: #0b3059;
+  text-align: center;
+}
+
+.return-to-main-consulting-page-link {
+  padding-top: 44px;
+  padding-bottom: 26px;
+  text-align: center;
+}
+
+.sponsor-an-event-header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #b53940;
+  color: #fff;
+  text-align: center;
+}
+
+.about-us-paragraph {
+  text-align: justify;
+}
+
+.cover-image {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.cover-image-section {
+  text-align: center;
+}
+
+.donate-header {
+  color: #fff;
+  text-align: center;
+}
+
+.sponsor-and-event-header {
+  color: #fff;
+  text-align: center;
+}
+
+.sponsor-an-event-header-column {
+  background-color: #6b083a;
+}
+
+.donate-header-column {
+  background-color: #00426b;
+}
+
+.google-group-text {
+  color: #000;
+  text-decoration: none;
+}
+
+.google-group-div-block {
+  text-align: center;
+  text-decoration: none;
+}
+
+.google-group-link-block {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
+
+.linkedin-div-block {
+  text-align: center;
+}
+
+.linkedin-link-block {
+  text-align: center;
+  text-decoration: none;
+}
+
+.facebook-link-block {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
+
+.twitter-link-block {
+  text-align: center;
+  text-decoration: none;
+}
+
+.facebook-column {
+  text-align: center;
+}
+
+.joins-us-heading {
+  padding-top: 18px;
+  padding-bottom: 32px;
+  text-align: center;
+}
+
+.tunecc-event-page-header {
+  background-color: #0b3059;
+  text-align: center;
+  text-decoration: none;
+}
+
+.tunecc-event-page-header-text {
+  background-color: transparent;
+  color: #fff;
+  font-size: 22px;
+}
+
+.about-tunecc-section {
+  padding-bottom: 0px;
+}
+
+.upcoming-seminars {
+  background-color: #6b083a;
+  color: #fff;
+  font-size: 21px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.events-headings {
+  color: #fff;
+  font-size: 31px;
+  font-weight: 500;
+}
+
+.recurring-events {
+  margin-right: -10px;
+  margin-left: -10px;
+  background-color: #00426b;
+  color: #fff;
+  font-size: 31px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.signature-events {
+  margin-left: -10px;
+  background-color: #b53940;
+  color: #fff;
+  font-size: 31px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.google-calendar {
+  text-align: center;
+}
+
+.google-calendar-section {
+  padding-top: 50px;
+}
+
+.getting-started-header {
+  text-decoration: underline;
+}
+
+.getting-started {
+  text-align: justify;
+}
+
+.case-study-group {
+  text-align: justify;
+}
+
+.tap {
+  text-align: justify;
+}
+
+.tunecc {
+  text-align: justify;
+}
+
+.csg-about-us {
+  text-align: justify;
+}
+
+.tap-about-us {
+  padding-bottom: 12px;
+  text-align: justify;
+}
+
+.tap-participants-section {
+  padding-top: 0px;
+  padding-bottom: 1px;
+}
+
+.tap-participants {
+  margin-top: -30px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
+.principal-tap-personnel {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: right;
+}
+
+.principal-tap-personnel-column {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 206px;
+  text-align: right;
+}
+
+.tap-principal-section {
+  margin-top: -26px;
+  margin-bottom: -26px;
+  padding-top: 0px;
+}
+
+.engagement-managers-section {
+  margin-top: -26px;
+  margin-bottom: -26px;
+  text-align: center;
+}
+
+.engagement-manager-participants-section-1 {
+  margin-top: -26px;
+  margin-bottom: -26px;
+}
+
+.consultants-participants-section {
+  margin-top: -26px;
+  margin-bottom: -26px;
+}
+
+.tap-participants-column-2 {
+  text-align: left;
+  text-decoration: none;
+}
+
+.blue-rectangle {
+  background-color: #00426b;
+}
+
+.orange-rectangle {
+  background-color: #b53940;
+}
+
+.red-rectangle {
+  background-color: #6b083a;
+}
+
+.analytics-graphic {
+  padding-top: 10px;
+}
+
+.analytics-annual-report-header {
+  text-align: center;
+}
+
+.analytics-annual-report-text {
+  font-size: 17px;
+  line-height: 22px;
+  text-align: center;
+}
+
+.aalytics-who-we-are {
+  font-size: 17px;
+  line-height: 23px;
+}
+
+.analytics-featured-speakers-column {
+  padding-bottom: 18px;
+  border: 3px solid #000;
+  -webkit-transform: scale(0.99);
+  -ms-transform: scale(0.99);
+  transform: scale(0.99);
+}
+
+.analytics-who-we-are {
+  padding-bottom: 5px;
+  border: 3px solid #000;
+  -webkit-transform: scale(0.99);
+  -ms-transform: scale(0.99);
+  transform: scale(0.99);
+}
+
+.analytics-annual-report-header-sub-1 {
+  border-style: none none solid;
+  border-width: 1px 1px 2px;
+  border-color: #000;
+  text-align: center;
+}
+
+.analytics-annual-report-header-s {
+  border-style: none none solid;
+  border-width: 1px 1px 2px;
+  border-color: #000;
+  text-align: center;
+}
+
+.analytics-images-div-block {
+  text-align: center;
+}
+
+.analytics-event-attendance-demographic {
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.analytics-tbbc-seminar-series {
+  text-align: center;
+}
+
+.analytics-event-attendance {
+  text-align: center;
+}
+
+.analytics-pie-charts {
+  margin-top: 12px;
+  border: 3px solid #000;
+}
+
+.column-11 {
+  padding-left: 0px;
+  -webkit-transform: scale(0.97);
+  -ms-transform: scale(0.97);
+  transform: scale(0.97);
+}
+
+.tbbc-initiatives {
+  font-size: 16px;
+}
+
+.analytics-consulting {
+  margin-top: 2px;
+  padding-bottom: 1px;
+  border: 3px solid #000;
+  -webkit-transform: scale(0.98);
+  -ms-transform: scale(0.98);
+  transform: scale(0.98);
+  font-size: 16px;
+}
+
+.analytics-initiative-and-consulting {
+  margin-top: 7px;
+}
+
+.tbbc-initiatives-column {
+  margin-top: 3px;
+  padding-bottom: 18px;
+  border: 3px solid #000;
+  -webkit-transform: scale(0.99);
+  -ms-transform: scale(0.99);
+  transform: scale(0.99);
+}
+
+.partners {
+  font-size: 16px;
+  text-align: center;
+}
+
+.partners-header {
+  border-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #000;
+  font-size: 22px;
+  text-align: center;
+}
+
+.partners-container {
+  margin-top: 6px;
+  padding-left: 0px;
+  border: 3px solid #000;
+}
+
+.analytics-hiring-header {
+  font-size: 22px;
+  text-align: center;
+}
+
+.analytics-hiring-companies {
+  text-align: center;
+}
+
+.analytics-putnam-investments {
+  margin-top: 17px;
+}
+
+.analytics-ra-capital {
+  margin-top: 22px;
+}
+
+.analytics-drg {
+  margin-top: 14px;
+}
+
+.analytics-hiring-block {
+  margin-top: 11px;
+  border: 3px solid #000;
+}
+
+.cover-photo {
+  -webkit-transform: translate(0px, 13px);
+  -ms-transform: translate(0px, 13px);
+  transform: translate(0px, 13px);
+}
+
+.utility-page-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  max-height: 100%;
+  max-width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.utility-page-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 260px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+}
+
+.utility-page-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.upcoming-seminars-content {
+  margin-top: 0px;
+  margin-right: -10px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  background-color: #9a6580;
+}
+
+.upcoming-seminars-heading {
+  margin-right: -10px;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  background-color: #6b083a;
+  color: #fff;
+  font-size: 31px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.case-study-group-content {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-top: 0px;
+  background-color: #6c829b;
+}
+
+.recurring-events-content {
+  padding-bottom: 0px;
+  text-decoration: none;
+}
+
+.case-study-group-div-block {
+  -webkit-transform: translate(84px, -39px);
+  -ms-transform: translate(84px, -39px);
+  transform: translate(84px, -39px);
+}
+
+.career-seminars-column-2 {
+  -webkit-transform: translate(0px, 29px);
+  -ms-transform: translate(0px, 29px);
+  transform: translate(0px, 29px);
+  text-align: left;
+}
+
+.biotech-journal-club-row {
+  background-color: #6c829b;
+}
+
+.recurrent-events-content {
+  height: 100%;
+  margin-top: -10px;
+  margin-right: -10px;
+  margin-left: -10px;
+  padding-bottom: 51px;
+  background-color: #6c829b;
+}
+
+.signature-events-content {
+  margin-top: -10px;
+  margin-left: -10px;
+  padding-top: 5px;
+  padding-bottom: 56px;
+  background-color: #c97b81;
+}
+
+.google-form-for-tap-application {
+  color: #1513e1;
+}
+
+.linkedin-column {
+  text-align: left;
+}
+
+.linkedin-block-1 {
+  text-decoration: none;
+}
+
+.linkedin-block-2 {
+  text-decoration: none;
+}
+
+.linkedin-block-3 {
+  text-decoration: none;
+}
+
+.linkedin-block-4 {
+  text-decoration: none;
+}
+
+.linkedin-block-5 {
+  text-decoration: none;
+}
+
+.linkedin-block-6 {
+  text-decoration: none;
+}
+
+.linkedin-block-7 {
+  text-decoration: none;
+}
+
+.linkedin-block-8 {
+  text-decoration: none;
+}
+
+.linkedin-block-9 {
+  text-decoration: none;
+}
+
+.linkedin-block-10 {
+  text-decoration: none;
+}
+
+.linkedin-block-11 {
+  text-decoration: none;
+}
+
+.tap-participants-container {
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
+.text-for-new-webpage {
+  text-align: center;
+}
+
+.link-2 {
+  color: #5953f0;
+}
+
+.section {
+  margin-top: -26px;
+  margin-bottom: -26px;
+}
+
+.paragraph {
+  font-family: 'Great Vibes', cursive;
+  text-align: left;
+  text-transform: none;
+}
+
+.list {
+  padding-top: 25px;
+  padding-right: 5px;
+  color: #fff;
+  font-size: 22px;
+}
+
+.list-2 {
+  margin-top: 0px;
+  padding-top: 14px;
+  color: #fff;
+  font-size: 22px;
+}
+
+.list-item {
+  padding-bottom: 10px;
+}
+
+.list-item-2 {
+  padding-bottom: 10px;
+}
+
+.list-item-3 {
+  padding-bottom: 10px;
+}
+
+.list-item-4 {
+  padding-bottom: 10px;
+}
+
+.columns {
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.columns-2 {
+  padding-left: 10px;
+}
+
+.text-block {
+  color: #fff;
+  text-align: center;
+}
+
+.text-block-2 {
+  padding-top: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+@media screen and (max-width: 991px) {
+  .tbbc-tagline {
+    margin-left: 243px;
+  }
+
+  .tap-inquiry-submit-buttom {
+    margin-left: -106px;
+  }
+
+  .upcoming-seminars-row-1 {
+    -webkit-transform: translate(0px, 10px);
+    -ms-transform: translate(0px, 10px);
+    transform: translate(0px, 10px);
+  }
+
+  .tufts-100k-signature-events {
+    -webkit-transform: translate(5px, 0px);
+    -ms-transform: translate(5px, 0px);
+    transform: translate(5px, 0px);
+    font-size: 23px;
+  }
+
+  .tufts-100k-signature-events-2 {
+    -webkit-transform: translate(5px, 0px);
+    -ms-transform: translate(5px, 0px);
+    transform: translate(5px, 0px);
+  }
+
+  .medstart-signature-event {
+    -webkit-transform: translate(5px, 0px);
+    -ms-transform: translate(5px, 0px);
+    transform: translate(5px, 0px);
+  }
+
+  .medstart-signature-event-2 {
+    -webkit-transform: translate(5px, 0px);
+    -ms-transform: translate(5px, 0px);
+    transform: translate(5px, 0px);
+  }
+
+  .upcoming-seminars-column-1a {
+    padding-bottom: 204.5px;
+  }
+
+  .recurring-events-column {
+    padding-bottom: 46.5px;
+  }
+
+  .signature-events-column {
+    padding-bottom: 0px;
+  }
+
+  .biotech-journal-club-row-2 {
+    -webkit-transform: translate(0px, 30px);
+    -ms-transform: translate(0px, 30px);
+    transform: translate(0px, 30px);
+  }
+
+  .biotech-buzz-column-3 {
+    -webkit-transform: translate(0px, 30px);
+    -ms-transform: translate(0px, 30px);
+    transform: translate(0px, 30px);
+  }
+
+  .principal {
+    -webkit-transform: translate(103px, 0px);
+    -ms-transform: translate(103px, 0px);
+    transform: translate(103px, 0px);
+    direction: ltr;
+    text-align: right;
+  }
+
+  .recurring-events {
+    padding-bottom: 44px;
+  }
+
+  .signature-events {
+    padding-bottom: 44px;
+  }
+
+  .principal-tap-personnel {
+    text-align: right;
+  }
+
+  .principal-tap-personnel-column {
+    padding-left: 0px;
+    text-align: justify;
+  }
+
+  .cover-photo {
+    -webkit-transform: translate(0px, 1px);
+    -ms-transform: translate(0px, 1px);
+    transform: translate(0px, 1px);
+  }
+
+  .upcoming-seminars-content {
+    padding-bottom: 160.75px;
+  }
+
+  .upcoming-seminars-heading {
+    font-size: 30px;
+  }
+
+  .recurrent-events-content {
+    padding-bottom: 2px;
+  }
+
+  .signature-events-content {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .tbbc-tagline {
+    margin-left: 164px;
+    font-size: 25px;
+  }
+
+  .twitter {
+    -webkit-transform: translate(3px, -18px);
+    -ms-transform: translate(3px, -18px);
+    transform: translate(3px, -18px);
+  }
+
+  .consulting-csg-image {
+    float: none;
+  }
+
+  .tap-inquiry-submit-buttom {
+    margin-top: 23px;
+    margin-left: -189px;
+    padding-top: 10px;
+  }
+
+  .career-seminars-link {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .biotech-buzz-column {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .alexandra-linkedin-tap {
+    text-align: center;
+  }
+
+  .recurring-events {
+    padding-bottom: 0px;
+  }
+
+  .signature-events {
+    margin-right: -10px;
+    padding-bottom: 0px;
+  }
+
+  .principal-tap-personnel-column {
+    margin-bottom: -50px;
+    padding-left: 0px;
+    direction: ltr;
+    text-align: center;
+    text-transform: none;
+  }
+
+  .tap-participants-column-2 {
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .cover-photo {
+    -webkit-transform: translate(0px, -45px);
+    -ms-transform: translate(0px, -45px);
+    transform: translate(0px, -45px);
+  }
+
+  .upcoming-seminars-content {
+    margin-left: -10px;
+  }
+
+  .upcoming-seminars-heading {
+    margin-left: -10px;
+    padding-bottom: 0px;
+  }
+
+  .signature-events-content {
+    margin-right: -10px;
+  }
+
+  .upcoming-seminars-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .case-study-group-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .case-study-group-column-2 {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .biotech-journal-club-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .biotech-buzz-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .tufts-100k-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .tunecc-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .medstart-image {
+    -webkit-transform: translate(158px, 0px);
+    -ms-transform: translate(158px, 0px);
+    transform: translate(158px, 0px);
+  }
+
+  .biotech-journal-club-column {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .tufts-100k-column {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .tunecc-column {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .medstart-column {
+    -webkit-transform: translate(250px, -64px);
+    -ms-transform: translate(250px, -64px);
+    transform: translate(250px, -64px);
+  }
+
+  .linkedin-column {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .tbbc-tagline {
+    margin-left: 0px;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    font-size: 22px;
+  }
+
+  .twitter {
+    -webkit-transform: translate(4px, 47px);
+    -ms-transform: translate(4px, 47px);
+    transform: translate(4px, 47px);
+  }
+
+  .tap-inquiry-form {
+    padding-right: 6px;
+    padding-left: 6px;
+    text-align: left;
+  }
+
+  .tap-inquiry-submit-buttom {
+    margin-top: 28px;
+    margin-left: -161px;
+    text-align: left;
+  }
+
+  .career-seminars-link {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .biotech-buzz-column {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .principal {
+    text-align: center;
+  }
+
+  .alexandra-linkedin-tap {
+    text-align: center;
+  }
+
+  .cover-image {
+    margin-top: 0px;
+  }
+
+  .principal-tap-personnel {
+    text-align: center;
+  }
+
+  .principal-tap-personnel-column {
+    margin-bottom: -48px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    -webkit-transform: translate(-73px, 0px);
+    -ms-transform: translate(-73px, 0px);
+    transform: translate(-73px, 0px);
+    text-align: center;
+  }
+
+  .tap-participants-column-2 {
+    text-align: center;
+  }
+
+  .cover-photo {
+    -webkit-transform: translate(0px, 19px);
+    -ms-transform: translate(0px, 19px);
+    transform: translate(0px, 19px);
+  }
+
+  .upcoming-seminars-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .case-study-group-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .case-study-group-column-2 {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .biotech-journal-club-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .biotech-buzz-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .tufts-100k-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .tunecc-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .medstart-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+
+  .biotech-journal-club-column {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .tufts-100k-column {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .tunecc-column {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .medstart-column {
+    -webkit-transform: translate(100px, -64px);
+    -ms-transform: translate(100px, -64px);
+    transform: translate(100px, -64px);
+  }
+
+  .tap-participants-container {
+    text-align: center;
+  }
+}
+
